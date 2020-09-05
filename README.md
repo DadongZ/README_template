@@ -1,7 +1,3 @@
-<a href="https://github.com/DadongZ"><img src="https://avatars1.githubusercontent.com/u/8431321?s=460&u=e1150a42f73b00c6631943b49fa2a4fa4be1ed3b&v=4" title="FVCproductions" alt="FVCproductions"></a>
-
-<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
-
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
 # Repository Title Goes Here
